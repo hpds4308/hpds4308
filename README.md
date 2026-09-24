@@ -1,7 +1,7 @@
 <div align="center">
   
-# 🌟 [YOUR NAME HERE] 🌟
-### ✨ [Your Tagline / Title] ✨
+# 🌟 [Dinujaya Pathirage] 🌟
+### ✨ [🎓 Software Engineering Student | 💻 Developer | 🤖 AI & Technology Enthusiast] ✨
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=Creative+Developer+%26+Designer;Web+%26+Mobile+Development+Specialist;Always+Building+Awesome+Things)](https://git.io/typing-svg)
 
@@ -15,17 +15,17 @@
 
 \```typescript
 const developer = {
-    location: "Your Country 🌍",
-    title: "AI-Powered Full Stack Developer",
-    role: "Founder @ YourCompany",
+    location: "Sri Lanka 🇱🇰",
+    title: "Software Engineering Student & AI Enthusiast",
+    role: "Founder @ Ceylon Systems Lab",
     education: {
-        current: "BSc Computer Science",
+        current: "BSc (Hons) Software Engineering",
         completed: "Diploma in ICT"
     },
     passions: [
-        "Architecting systems & coding with AI",
-        "Building modern web & mobile apps",
-        "Crafting eye-catching graphics"
+        "Building AI-powered software & smart systems",
+        "Developing modern web & mobile applications",
+        "Creating innovative designs & digital experiences"
     ],
     funFact: "I don't just write code; I use AI as my superpower to build anything! 🤖✨"
 };
