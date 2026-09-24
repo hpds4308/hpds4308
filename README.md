@@ -1,7 +1,7 @@
 <div align="center">
   
-# 🌟 [Dinujaya Pathirage] 🌟
-### ✨ [🎓 Software Engineering Student | 💻 Developer | 🤖 AI & Technology Enthusiast] ✨
+# 🌟 Dinujaya Pathirage 🌟
+### ✨ 🎓 Software Engineering Student | 💻 Developer | 🤖 AI & Technology Enthusiast ✨
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=Creative+Developer+%26+Designer;Web+%26+Mobile+Development+Specialist;Always+Building+Awesome+Things)](https://git.io/typing-svg)
 
@@ -13,7 +13,7 @@
 
 ## 🎯 **ABOUT ME**
 
-\Hi! I'm Dinujaya Sachiranga, a Software Engineering student from Sri Lanka with a passion for technology, software development, artificial intelligence, and creative digital design.
+Hi! I'm Dinujaya Sachiranga, a Software Engineering student from Sri Lanka with a passion for technology, software development, artificial intelligence, and creative digital design.
 
 I enjoy turning ideas into practical and innovative solutions. My interests include AI-powered applications, full-stack development, mobile and web applications, computer vision, IoT, and smart systems. I'm particularly interested in using technology to solve real-world problems and create meaningful user experiences.
 
@@ -22,7 +22,7 @@ I'm currently developing projects that combine software, AI, hardware, and intel
 Alongside software development, I also have a strong interest in graphic design and digital creativity. I enjoy experimenting with new technologies, learning new skills, and continuously improving the way I build and design things.
 
 🚀 My goal is simple: keep learning, keep building, and use technology to turn creative ideas into real-world solutions.
-\
+
 
 ---
 
@@ -79,9 +79,9 @@ Alongside software development, I also have a strong interest in graphic design 
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=google-chrome&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinujaya-sachiranga-b672b7334/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
 
 </div>
 
@@ -109,6 +109,6 @@ Alongside software development, I also have a strong interest in graphic design 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
-**⭐ If this template helped you, please give [this repository](https://github.com/kaali-k/Awesome-Profile-README) a Star and follow me!**
+**⭐ If this template helped you, please give [this repository](https://github.com/hpds4308) a Star and follow me!**
 
 </div>
