@@ -163,7 +163,9 @@ VisionAssist combines **AI, computer vision, sensors, GPS, Raspberry Pi, and aud
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hpds4308&theme=react-dark&hide_border=true&area=true" width="100%"/>
+## 📊 Contribution Graph
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hpd4308&theme=react-dark)
 
 </div>
 
