@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 Dinujaya Pathirage 🌟
+# ⚠️  Dinujaya Pathirage ⚠️ 
 
 ### 💻 Software Engineering Student | 🤖 AI Enthusiast | 🚀 Developer
 
