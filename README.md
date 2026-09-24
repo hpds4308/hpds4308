@@ -13,23 +13,16 @@
 
 ## 🎯 **ABOUT ME**
 
-\```typescript
-const developer = {
-    location: "Sri Lanka 🇱🇰",
-    title: "Software Engineering Student & AI Enthusiast",
-    role: "Founder @ Ceylon Systems Lab",
-    education: {
-        current: "BSc (Hons) Software Engineering",
-        completed: "Diploma in ICT"
-    },
-    passions: [
-        "Building AI-powered software & smart systems",
-        "Developing modern web & mobile applications",
-        "Creating innovative designs & digital experiences"
-    ],
-    funFact: "I don't just write code; I use AI as my superpower to build anything! 🤖✨"
-};
-\```
+\Hi! I'm Dinujaya Sachiranga, a Software Engineering student from Sri Lanka with a passion for technology, software development, artificial intelligence, and creative digital design.
+
+I enjoy turning ideas into practical and innovative solutions. My interests include AI-powered applications, full-stack development, mobile and web applications, computer vision, IoT, and smart systems. I'm particularly interested in using technology to solve real-world problems and create meaningful user experiences.
+
+I'm currently developing projects that combine software, AI, hardware, and intelligent navigation, including VisionAssist – an AI-powered smart navigation system for visually impaired people.
+
+Alongside software development, I also have a strong interest in graphic design and digital creativity. I enjoy experimenting with new technologies, learning new skills, and continuously improving the way I build and design things.
+
+🚀 My goal is simple: keep learning, keep building, and use technology to turn creative ideas into real-world solutions.
+\
 
 ---
 
