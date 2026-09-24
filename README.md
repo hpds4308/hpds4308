@@ -1,9 +1,10 @@
 <div align="center">
-  
-# 🌟 Dinujaya Pathirage 🌟
-### ✨ 🎓 Software Engineering Student | 💻 Developer | 🤖 AI & Technology Enthusiast ✨
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=Creative+Developer+%26+Designer;Web+%26+Mobile+Development+Specialist;Always+Building+Awesome+Things)](https://git.io/typing-svg)
+# 🌟 Dinujaya Pathirage 🌟
+
+### 💻 Software Engineering Student | 🤖 AI Enthusiast | 🚀 Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Web+%26+Mobile+Developer;Always+Learning+%26+Building" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&animation=twinkling&fontColor=fff" width="100%"/>
 
@@ -11,87 +12,227 @@
 
 ---
 
-## 🎯 **ABOUT ME**
+## 👨‍💻 About Me
 
-Hi! I'm Dinujaya Sachiranga, a Software Engineering student from Sri Lanka with a passion for technology, software development, artificial intelligence, and creative digital design.
+Hi! I'm **Dinujaya Sachiranga**, a Software Engineering student from **Sri Lanka** 🇱🇰 with a passion for software development, artificial intelligence, machine learning, and creative technology.
 
-I enjoy turning ideas into practical and innovative solutions. My interests include AI-powered applications, full-stack development, mobile and web applications, computer vision, IoT, and smart systems. I'm particularly interested in using technology to solve real-world problems and create meaningful user experiences.
+I'm interested in building practical solutions that combine **software, AI, mobile applications, web technologies, hardware, and intelligent systems**.
 
-I'm currently developing projects that combine software, AI, hardware, and intelligent navigation, including VisionAssist – an AI-powered smart navigation system for visually impaired people.
+### 🚀 What I'm Interested In
 
-Alongside software development, I also have a strong interest in graphic design and digital creativity. I enjoy experimenting with new technologies, learning new skills, and continuously improving the way I build and design things.
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Computer Vision
+- 💻 Full-Stack Development
+- 📱 Mobile Application Development
+- 🌐 Web Application Development
+- 🔌 IoT & Smart Systems
+- 🗺️ AI-powered Navigation Systems
+- 🎨 UI/UX & Digital Design
+- ☁️ Cloud & Modern Software Technologies
 
-🚀 My goal is simple: keep learning, keep building, and use technology to turn creative ideas into real-world solutions.
+### 🎯 Current Focus
 
+I'm currently working on projects that combine **AI + Software + Hardware** to solve real-world problems.
+
+One of my key projects is **VisionAssist**, an AI-powered smart navigation system designed to assist visually impaired people using computer vision, sensors, GPS navigation, and real-time audio guidance.
+
+> 💡 **My goal:** Keep learning, keep building, and turn creative ideas into real-world solutions.
 
 ---
 
-## 🛠️ **TECH STACK & TOOLS**
+# 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 **Development**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 💻 Programming Languages
 
-### 🗄️ **Database & Backend**
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,dart,c,cpp" />
 
-### 🎨 **Creative & Productivity**
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### 🌐 Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind,nodejs" />
+
+### 📱 Mobile Development
+
+<img src="https://skillicons.dev/icons?i=flutter,react" />
+
+### 🤖 AI & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
+
+### 🗄️ Databases & Backend
+
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,firebase,supabase,fastapi" />
+
+### 🔧 Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma,photoshop,postman" />
 
 </div>
 
 ---
 
-## 📊 **GITHUB STATISTICS**
+# 📌 Featured Project
+
+## 👁️ VisionAssist
+
+**AI-Powered Smart Navigation System for Visually Impaired People**
+
+VisionAssist combines **AI, computer vision, sensors, GPS, Raspberry Pi, and audio guidance** to help visually impaired users navigate their surroundings more safely.
+
+### 🔹 Key Technologies
+
+- 🧠 YOLO / Computer Vision
+- 🐍 Python
+- 🍓 Raspberry Pi
+- 📡 Ultrasonic Sensors
+- 📍 GPS Navigation
+- 🎤 Voice Recognition
+- 🔊 Audio Guidance
+- 📱 Mobile Application
+- 🤖 AI-powered Obstacle Detection
+
+### 🔹 My Role
+
+**Machine Learning Engineer & Hardware Developer**
+
+- Environment mapping
+- Obstacle detection
+- Navigation assistance
+- Pathfinding
+- GPS integration
+- Left/right audio navigation instructions
+- Raspberry Pi processing
+- Hardware assembly and sensor integration
+
+---
+
+# 💻 Development Skills
 
 <div align="center">
-  
-<img width="49%" src="https://streak-stats.demolab.com/?user=[hpds4308]&theme=radical&hide_border=true&background=0D1117&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakLabel=FFFFFF" />
+
+| Area | Technologies |
+|---|---|
+| Programming | Python, JavaScript, TypeScript, Java, Dart |
+| Frontend | React, HTML, CSS, Tailwind CSS |
+| Mobile | Flutter, React Native |
+| Backend | FastAPI, Node.js |
+| Databases | PostgreSQL, MySQL, Firebase, Supabase |
+| AI / ML | Python, OpenCV, YOLO, Machine Learning |
+| Hardware | Raspberry Pi, Sensors, IoT |
+| Tools | Git, GitHub, VS Code, Postman, Docker |
+| Design | Figma, Adobe Photoshop |
 
 </div>
 
 ---
 
-## 🌐 **CONNECT WITH ME**
+# 📊 GitHub Statistics
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=google-chrome&logoColor=white)]()
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinujaya-sachiranga-b672b7334/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
+<img src="https://github-readme-stats.vercel.app/api?username=hpds4308&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpds4308&layout=compact&theme=radical&hide_border=true" height="180"/>
 
 </div>
 
 ---
 
-## 👀 **PROFILE VISITORS**
+# 🔥 GitHub Streak
 
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=[hpds4308]&label=Profile%20Views&color=FF0000&style=for-the-badge)
+
+<img src="https://streak-stats.demolab.com/?user=hpds4308&theme=radical&hide_border=true&background=0D1117&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakLabel=FFFFFF" />
 
 </div>
 
 ---
 
+# 🐍 Contribution Snake
+
 <div align="center">
 
-### 💡 **Random Dev Quote**
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://raw.githubusercontent.com/hpds4308/hpds4308/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
-### 🤣 **Programming Joke of the Day**
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hpds4308&theme=react-dark&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=hpds4308&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/dinujaya-sachiranga-b672b7334/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/hpds4308">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+# 👀 Profile Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=hpds4308&label=Profile%20Views&color=FF0000&style=for-the-badge" />
+
+</div>
+
+---
+
+# 💡 Random Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+</div>
+
+---
+
+# 🤣 Programming Joke
+
+<div align="center">
+
 <img src="https://readme-jokes.vercel.app/api?theme=radical" />
 
+</div>
+
 ---
+
+<div align="center">
+
+### 🚀 Keep Learning. Keep Building. Keep Creating.
+
+**💻 Code • 🤖 AI • 🚀 Innovation**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
-**⭐ If this template helped you, please give [this repository](https://github.com/hpds4308) a Star and follow me!**
+⭐ **Thanks for visiting my profile!**
 
 </div>
