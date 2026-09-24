@@ -26,20 +26,6 @@ Alongside software development, I also have a strong interest in graphic design 
 
 ---
 
-## 🐍 **CONTRIBUTION SNAKE**
-
-<div align="center">
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[hpds4308]/[hpds4308]/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[hpds4308]/[hpds4308]/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/[hpds4308]/[hpds4308]/output/github-contribution-grid-snake.svg">
-  </picture>
-
-</div>
-
----
-
 ## 🛠️ **TECH STACK & TOOLS**
 
 <div align="center">
@@ -66,10 +52,10 @@ Alongside software development, I also have a strong interest in graphic design 
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=[YOUR_USERNAME]&theme=radical&hide_border=true&background=0D1117&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakLabel=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=[hpds4308]&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=[hpds4308]&theme=radical&hide_border=true&background=0D1117&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakLabel=FFFFFF" />
 
-<img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF" />
+<img width="100%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=[hpds4308]&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF" />
 
 </div>
 
@@ -91,7 +77,7 @@ Alongside software development, I also have a strong interest in graphic design 
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&label=Profile%20Views&color=FF0000&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=[hpds4308]&label=Profile%20Views&color=FF0000&style=for-the-badge)
 
 </div>
 
