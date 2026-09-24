@@ -1,12 +1,12 @@
 <div align="center">
 
-# ⚠️  Dinujaya Pathirage ⚠️ 
+# ⚡ Dinujaya Pathirage ⚡
 
 ### 💻 Software Engineering Student | 🤖 AI Enthusiast | 🚀 Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Web+%26+Mobile+Developer;Always+Learning+%26+Building" alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&animation=twinkling&fontColor=fff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&animation=twinkling&fontColor=fff" width="100%" />
 
 </div>
 
@@ -131,9 +131,9 @@ VisionAssist combines **AI, computer vision, sensors, GPS, Raspberry Pi, and aud
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hpds4308&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hpds4308&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpds4308&layout=compact&theme=radical&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpds4308&layout=compact&theme=radical&hide_border=true" height="180" />
 
 </div>
 
@@ -163,19 +163,19 @@ VisionAssist combines **AI, computer vision, sensors, GPS, Raspberry Pi, and aud
 
 <div align="center">
 
-## 📊 Contribution Graph
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hpd4308&theme=react-dark)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hpds4308&theme=react-dark)](https://github.com/hpds4308)
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=hpds4308&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
+<img src="https://img.shields.io/github/followers/hpds4308?label=Followers&style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/stars/hpds4308?label=Profile%20Stars&style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/repositories/hpds4308?label=Repositories&style=for-the-badge&logo=github" />
 
 </div>
 
@@ -201,7 +201,7 @@ VisionAssist combines **AI, computer vision, sensors, GPS, Raspberry Pi, and aud
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=hpds4308&label=Profile%20Views&color=FF0000&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=hpds4308&label=Profile%20Views&color=FF0000&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -211,7 +211,7 @@ VisionAssist combines **AI, computer vision, sensors, GPS, Raspberry Pi, and aud
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Developer Quote" />
 
 </div>
 
@@ -221,7 +221,7 @@ VisionAssist combines **AI, computer vision, sensors, GPS, Raspberry Pi, and aud
 
 <div align="center">
 
-<img src="https://readme-jokes.vercel.app/api?theme=radical" />
+<img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Programming Joke" />
 
 </div>
 
@@ -233,7 +233,7 @@ VisionAssist combines **AI, computer vision, sensors, GPS, Raspberry Pi, and aud
 
 **💻 Code • 🤖 AI • 🚀 Innovation**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" />
 
 ⭐ **Thanks for visiting my profile!**
 
