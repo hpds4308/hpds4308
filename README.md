@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🔴 Dinujaya Pathirage 🔴
+# ⚡ Dinujaya Pathirage ⚡
 
 ### 💻 Software Engineering Student | 🤖 AI Enthusiast | 🚀 Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=850&lines=Software+Engineering+Student;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Web+%26+Mobile+Developer;Always+Learning+%26+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Web+%26+Mobile+Developer;Always+Learning+%26+Building" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&animation=twinkling&fontColor=fff" width="100%" />
 
@@ -12,13 +12,13 @@
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 Hi! I'm **Dinujaya Sachiranga**, a Software Engineering student from **Sri Lanka** 🇱🇰 with a passion for software development, artificial intelligence, machine learning, and creative technology.
 
 I'm interested in building practical solutions that combine **software, AI, mobile applications, web technologies, hardware, and intelligent systems**.
 
-## 🚀 What I'm Interested In
+### 🚀 What I'm Interested In
 
 - 🤖 Artificial Intelligence & Machine Learning
 - 🧠 Computer Vision
@@ -30,7 +30,7 @@ I'm interested in building practical solutions that combine **software, AI, mobi
 - 🎨 UI/UX & Digital Design
 - ☁️ Cloud & Modern Software Technologies
 
-## 🎯 Current Focus
+### 🎯 Current Focus
 
 I'm currently working on projects that combine **AI + Software + Hardware** to solve real-world problems.
 
@@ -44,37 +44,27 @@ One of my key projects is **VisionAssist**, an AI-powered smart navigation syste
 
 <div align="center">
 
-## 💻 Programming Languages
+### 💻 Programming Languages
 
 <img src="https://skillicons.dev/icons?i=python,java,js,ts,dart,c,cpp" />
 
-<br><br>
-
-## 🌐 Web Development
+### 🌐 Web Development
 
 <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind,nodejs" />
 
-<br><br>
-
-## 📱 Mobile Development
+### 📱 Mobile Development
 
 <img src="https://skillicons.dev/icons?i=flutter,react" />
 
-<br><br>
-
-## 🤖 AI & Machine Learning
+### 🤖 AI & Machine Learning
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
 
-<br><br>
-
-## 🗄️ Databases & Backend
+### 🗄️ Databases & Backend
 
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,firebase,supabase,fastapi" />
 
-<br><br>
-
-## 🔧 Tools & Technologies
+### 🔧 Tools & Technologies
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma,photoshop,postman" />
 
@@ -141,9 +131,9 @@ VisionAssist combines **AI, computer vision, sensors, GPS, Raspberry Pi, and aud
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hpds4308&show_icons=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=0D1117&hide_border=true&count_private=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=hpds4308&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpds4308&layout=compact&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&bg_color=0D1117&hide_border=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpds4308&layout=compact&theme=radical&hide_border=true" height="180" />
 
 </div>
 
@@ -153,7 +143,7 @@ VisionAssist combines **AI, computer vision, sensors, GPS, Raspberry Pi, and aud
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=hpds4308&theme=radical&hide_border=true&background=0D1117&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" />
+<img src="https://streak-stats.demolab.com/?user=hpds4308&theme=radical&hide_border=true&background=0D1117&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakLabel=FFFFFF" />
 
 </div>
 
@@ -173,7 +163,7 @@ VisionAssist combines **AI, computer vision, sensors, GPS, Raspberry Pi, and aud
 
 <div align="center">
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hpds4308&theme=react-dark&hide_border=true&area=true&color=FF0000&line=FF0000&point=FFFFFF)](https://github.com/hpds4308)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hpds4308&theme=react-dark)](https://github.com/hpds4308)
 
 </div>
 
@@ -183,11 +173,9 @@ VisionAssist combines **AI, computer vision, sensors, GPS, Raspberry Pi, and aud
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/hpds4308?label=Followers&style=for-the-badge&logo=github&color=FF0000" />
-
-<img src="https://img.shields.io/github/stars/hpds4308?label=Profile%20Stars&style=for-the-badge&logo=github&color=FF0000" />
-
-<img src="https://img.shields.io/github/repositories/hpds4308?label=Repositories&style=for-the-badge&logo=github&color=FF0000" />
+<img src="https://img.shields.io/github/followers/hpds4308?label=Followers&style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/stars/hpds4308?label=Profile%20Stars&style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/repositories/hpds4308?label=Repositories&style=for-the-badge&logo=github" />
 
 </div>
 
@@ -198,15 +186,15 @@ VisionAssist combines **AI, computer vision, sensors, GPS, Raspberry Pi, and aud
 <div align="center">
 
 <a href="https://www.linkedin.com/in/dinujaya-sachiranga-b672b7334/">
-<img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/hpds4308">
-<img src="https://img.shields.io/badge/GitHub-FF0000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://wa.me/message/H4U7PHKW2L4VE1">
-<img src="https://img.shields.io/badge/WhatsApp-FF0000?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 </div>
@@ -217,7 +205,7 @@ VisionAssist combines **AI, computer vision, sensors, GPS, Raspberry Pi, and aud
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=hpds4308&label=PROFILE+VIEWS&color=FF0000&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=hpds4308&label=Profile%20Views&color=FF0000&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -245,21 +233,9 @@ VisionAssist combines **AI, computer vision, sensors, GPS, Raspberry Pi, and aud
 
 <div align="center">
 
-# 🔴 Keep Learning. Keep Building. Keep Creating. 🔴
+### 🚀 Keep Learning. Keep Building. Keep Creating.
 
-### 💻 Code • 🤖 AI • 🚀 Innovation
-
-<br>
-
-<a href="https://github.com/hpds4308">
-<img src="https://img.shields.io/badge/VIEW%20MY%20GITHUB-FF0000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://wa.me/message/H4U7PHKW2L4VE1">
-<img src="https://img.shields.io/badge/CONTACT%20ME%20ON%20WHATSAPP-FF0000?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-
-<br><br>
+**💻 Code • 🤖 AI • 🚀 Innovation**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" />
 
